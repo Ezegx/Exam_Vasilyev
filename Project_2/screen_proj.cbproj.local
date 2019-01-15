@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Vasilyev\Project_2\screensaver.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Vasilyev\Project_2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Vasilyev\Project_2\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Vasilyev\Project_2\screen_proj.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Vasilyev\Project_2\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.01.15 05:58:26.328,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.01.15 05:58:31.347,=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.01.15 06:21:05.654,C:\Vasilyev\Project_1\Unit1.cpp=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.01.15 06:21:05.654,C:\Vasilyev\Project_1\Unit1.h=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.01.15 06:21:05.654,C:\Vasilyev\Project_1\Unit1.fmx=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019.01.15 06:21:07.563,C:\Vasilyev\Project_1\Project1PCH1.h=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.01.15 06:21:09.041,C:\Vasilyev\Project_1\Project1.cbproj=C:\Users\Ezegx\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
